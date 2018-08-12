@@ -45,7 +45,7 @@ export default class Home extends React.Component {
               }
             });
           }}
-          title="View next screen"
+          title="Here goes to my tony stuff"
         />
       </View>
     )
